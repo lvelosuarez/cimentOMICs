@@ -1,0 +1,89 @@
+# Large files deposited on Zenodo (> GitHub limits)
+data/hamronization_combined_report.tsv
+data/depth.tsv
+
+# Patient clinical data — not shared per ethics
+data/clinique.csv
+
+# Intermediate / legacy outputs
+groot_results/
+
+# Superseded by sample_metadata.tsv and arg_contigs.tsv
+data/merged_summary.tsv
+data/sylph_ciment_summary.tsv
+data/libsize_pa_continuous.tsv
+data/cftr_status.tsv
+data/macrolide_rpkm_mapped.tsv
+data/genomad_mobile_per_sample.tsv
+data/mapping_library_sizes.tsv
+data/arg_mge_colocalisation.tsv
+data/arg_rpkm_mapped.tsv
+data/mapping_arg_contig_counts.tsv
+
+# Unused processed outputs (kept locally, not needed for reproducibility)
+data/plasx/
+data/seventy/
+data/hamro_consensus_per_sample.tsv
+data/hamro_identity_stats.tsv
+data/hamro_jaccard.tsv
+data/hamro_macrolide_genes.tsv
+data/hamro_tool_overview.tsv
+data/funcscan_pa_metadata.tsv
+data/funcscan_summary_long.tsv
+data/funcscan_summary_wide.tsv
+data/genomad_plasmid_master.tsv
+data/groot_vs_rgi_comparison.tsv
+data/macrolide_rpkm_per_sample.tsv
+data/macrolide_aro_summary.tsv
+data/rgi_normalised.tsv
+data/assembly_arg_richness.tsv
+data/libsize_arg_comparison.tsv
+data/aro_index.tsv
+data/arg_contig_taxids.tsv
+data/bin_contig_membership.tsv
+data/TNEG.report
+data/TPOS.report
+data/mapping_idxstats/
+
+# Raw geNomad per-sample outputs
+CO*_summary/
+TNEG_summary/
+TPOS_summary/
+
+# Internal presentation and manuscript drafts
+*.pptx
+*.docx
+*.xlsx
+sources/
+
+# Large TIFF figures
+figures/*.tif
+
+# Unused / supplementary figures not in submission
+figures/alluvial_plot.png
+figures/fig_supp_consistency.pdf
+figures/fig_supp_consistency.png
+
+# Internal Illustrator file
+figures/*.ai
+figures/illustrator/
+
+# Compressed archives
+*.tar.gz
+
+# Private working files (presentations, drafts, legacy analysis)
+.private/
+
+# ENA submission credentials and receipts
+ena_submission/
+
+# System and tool files
+.DS_Store
+.claude/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# R analysis files (internal)
+*.R
+data/proportion-ARG-derived_card.csv

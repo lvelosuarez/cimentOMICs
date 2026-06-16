@@ -1,0 +1,227 @@
+ARO_id	n_samples	gene_label	broad_class	Resistance Mechanism
+ARO:3000194	23	tet(W)	tetracycline	
+ARO:3004442	23	tet(W/N/W)	tetracycline	antibiotic target protection
+ARO:3000596	21	ErmX	macrolide/MLSB	antibiotic target alteration
+ARO:3003109	21	msr(D)	macrolide/MLSB	
+ARO:3000616	21	mef(A)	macrolide/MLSB	
+ARO:3000375	18	ErmB	macrolide/MLSB	antibiotic target alteration
+ARO:3005069	16	rsmA	fluoroquinolone	antibiotic efflux
+ARO:3000777	16	adeF	fluoroquinolone	antibiotic efflux
+ARO:3004836	15	Neisseria gonorrhoeae 23S rRNA with mutation conferring resistance to azithromycin	macrolide/MLSB	antibiotic target alteration
+ARO:3003003	14	CfxA3	beta-lactam	antibiotic inactivation
+ARO:3000819	14	nalD	beta-lactam	antibiotic efflux
+ARO:3000814	14	MexT	fluoroquinolone	antibiotic efflux
+ARO:3004038	14	Pseudomonas aeruginosa emrE	aminoglycoside	antibiotic efflux
+ARO:3000813	13	MexS	fluoroquinolone	antibiotic efflux
+ARO:3002645	13	APH(3')-IIb	aminoglycoside	antibiotic inactivation
+ARO:3003692	13	MexJ	macrolide/MLSB	antibiotic efflux
+ARO:3003681	13	TriC	triclosan	antibiotic efflux
+ARO:3000807	13	MexH	fluoroquinolone	antibiotic efflux
+ARO:3000803	13	MexE	fluoroquinolone	antibiotic efflux
+ARO:3000805	13	OprN	fluoroquinolone	antibiotic efflux
+ARO:3000818	13	nalC	beta-lactam	antibiotic efflux
+ARO:3002679	13	Pseudomonas aeruginosa catB7	phenicol	antibiotic inactivation
+ARO:3000806	13	MexG	fluoroquinolone	antibiotic efflux
+ARO:3004054	13	Pseudomonas aeruginosa CpxR	beta-lactam	antibiotic efflux
+ARO:3002804	13	fosA	fosfomycin	
+ARO:3005063	13	cprR	peptide	antibiotic target alteration; antibiotic efflux
+ARO:3005040	13	YajC	beta-lactam	antibiotic efflux
+ARO:3002985	13	arnA	peptide	antibiotic target alteration
+ARO:3004060	13	Type B NfxB	beta-lactam	antibiotic efflux
+ARO:3004107	12	Pseudomonas aeruginosa soxR	beta-lactam	antibiotic target alteration; antibiotic efflux
+ARO:3005068	12	ParR	beta-lactam	antibiotic efflux; reduced permeability to antibiotic
+ARO:3003679	12	TriA	triclosan	antibiotic efflux
+ARO:3005067	12	ParS	beta-lactam	antibiotic efflux; reduced permeability to antibiotic
+ARO:3000808	12	MexI	fluoroquinolone	antibiotic efflux
+ARO:3000809	12	OpmD	fluoroquinolone	antibiotic efflux
+ARO:3000149	12	FosA	fosfomycin	antibiotic inactivation
+ARO:3003682	12	OpmH	triclosan	antibiotic efflux
+ARO:3003693	12	MexK	macrolide/MLSB	antibiotic efflux
+ARO:3003030	12	MexV	macrolide/MLSB	antibiotic efflux
+ARO:3003700	12	opmE	beta-lactam	antibiotic efflux
+ARO:3003704	12	mexM	phenicol	antibiotic efflux
+ARO:3000506	12	MexR	beta-lactam	antibiotic target alteration; antibiotic efflux
+ARO:3003705	12	mexN	phenicol	antibiotic efflux
+ARO:3003583	12	basS	peptide	antibiotic target alteration; antibiotic efflux
+ARO:3003710	12	MexL	macrolide/MLSB	antibiotic efflux
+ARO:3003801	12	bcr-1	other	antibiotic efflux
+ARO:3000379	12	OprM	beta-lactam	antibiotic efflux
+ARO:3004032	12	tetA(46)	tetracycline	antibiotic efflux
+ARO:3000873	11	TEM-1	beta-lactam	antibiotic inactivation
+ARO:3003699	11	mexQ	beta-lactam	antibiotic efflux
+ARO:3000804	11	MexF	fluoroquinolone	antibiotic efflux
+ARO:3000191	11	tet(Q)	tetracycline	
+ARO:3000800	11	MexC	beta-lactam	antibiotic efflux
+ARO:3003680	11	TriB	triclosan	antibiotic efflux
+ARO:3003698	11	mexP	beta-lactam	antibiotic efflux
+ARO:3000498	11	ErmF	macrolide/MLSB	antibiotic target alteration
+ARO:3003709	11	MexZ	beta-lactam	antibiotic efflux
+ARO:3004033	11	tetB(46)	tetracycline	
+ARO:3005064	11	cprS	peptide	antibiotic target alteration; antibiotic efflux
+ARO:3000801	11	MexD	beta-lactam	antibiotic efflux
+ARO:3004073	11	MuxA	beta-lactam	antibiotic efflux
+ARO:3004077	11	PmpM	aminoglycoside	antibiotic efflux
+ARO:3004074	11	MuxB	beta-lactam	antibiotic efflux
+ARO:3004075	10	MuxC	beta-lactam	antibiotic efflux
+ARO:3003582	10	basR	peptide	antibiotic target alteration; antibiotic efflux
+ARO:3003031	10	MexW	macrolide/MLSB	antibiotic efflux
+ARO:3000025	10	patB	fluoroquinolone	antibiotic efflux
+ARO:3004072	10	OpmB	beta-lactam	antibiotic efflux
+ARO:3000024	10	patA	fluoroquinolone	antibiotic efflux
+ARO:3003033	10	mexY	beta-lactam	antibiotic efflux
+ARO:3000186	10	tetM	tetracycline	antibiotic target protection
+ARO:3000378	10	MexB	beta-lactam	antibiotic efflux
+ARO:3000802	10	OprJ	beta-lactam	antibiotic efflux
+ARO:3003369	9	Escherichia coli EF-Tu mutants conferring resistance to Pulvomycin	other	antibiotic target alteration
+ARO:3002871	9	tet(37)	tetracycline	
+ARO:3002702	9	crpP	fluoroquinolone	
+ARO:3000377	9	MexA	beta-lactam	antibiotic efflux
+ARO:3004597	9	Klebsiella pneumoniae KpnH	beta-lactam	antibiotic efflux
+ARO:3004056	8	ArmR	beta-lactam	antibiotic efflux
+ARO:3004035	7	tetA(60)	tetracycline	
+ARO:3000621	7	PC1 beta-lactamase (blaZ)	beta-lactam	antibiotic inactivation
+ARO:3000168	6	tet(D)	tetracycline	antibiotic efflux
+ARO:3000124	6	blaI	beta-lactam	
+ARO:3004446	6	Haemophilus influenzae PBP3 conferring resistance to beta-lactam antibiotics	beta-lactam	antibiotic target alteration
+ARO:3002660	5	APH(6)-Id	aminoglycoside	antibiotic inactivation
+ARO:3004142	5	OprZ	beta-lactam	antibiotic efflux
+ARO:3004144	5	AxyY	beta-lactam	antibiotic efflux
+ARO:3005010	5	qacEdelta1	other	antibiotic efflux
+ARO:3003001	5	cfxA	beta-lactam	
+ARO:3002639	5	APH(3'')-Ib	aminoglycoside	antibiotic inactivation
+ARO:3003953	5	hmrM	fluoroquinolone	antibiotic efflux
+ARO:3000410	5	sul1	sulfonamide	antibiotic target replacement
+ARO:3004143	5	AxyX	beta-lactam	antibiotic efflux
+ARO:3000215	4	blaR1	beta-lactam	
+ARO:3002983	4	amrB	aminoglycoside	antibiotic efflux
+ARO:3004036	4	tetB(60)	tetracycline	
+ARO:3002482	4	blaPEN-B	beta-lactam	
+ARO:3000412	4	sul2	sulfonamide	antibiotic target replacement
+ARO:3003479	4	tetR	tetracycline	antibiotic target alteration; antibiotic efflux
+ARO:3002507	4	PDC-8	beta-lactam	antibiotic inactivation
+ARO:3002641	3	APH(3')-Ia	aminoglycoside	antibiotic inactivation
+ARO:3003052	3	smeB	beta-lactam	antibiotic efflux
+ARO:3003051	3	smeA	beta-lactam	antibiotic efflux
+ARO:3002570	3	AAC(6')-Iz	aminoglycoside	antibiotic inactivation
+ARO:3000582	3	blaL1	beta-lactam	
+ARO:3000250	3	ErmC	macrolide/MLSB	antibiotic target alteration
+ARO:3002693	3	cmlA1	phenicol	antibiotic efflux
+ARO:3002502	3	PDC-5	beta-lactam	antibiotic inactivation
+ARO:3001796	3	OXA-50	beta-lactam	antibiotic inactivation
+ARO:3002646	3	aph(3')-IIc	aminoglycoside	
+ARO:3002659	3	aph(6)	aminoglycoside	
+ARO:3003066	3	smeR	beta-lactam	antibiotic efflux
+ARO:3004089	3	aadA1	aminoglycoside	
+ARO:3000166	3	tet(B)	tetracycline	antibiotic efflux
+ARO:3000413	2	sul3	sulfonamide	antibiotic target replacement
+ARO:3000746	2	mepR	tetracycline	antibiotic efflux
+ARO:3003645	2	OXA-488	beta-lactam	antibiotic inactivation
+ARO:3000518	2	CRP	beta-lactam	antibiotic efflux
+ARO:3000565	2	tet(38)	tetracycline	antibiotic efflux
+ARO:3000190	2	tetO	tetracycline	antibiotic target protection
+ARO:3000230	2	ANT(2'')-Ia	aminoglycoside	antibiotic inactivation
+ARO:3000205	2	tet(X2)	tetracycline	
+ARO:3000822	2	pmrA	fluoroquinolone	antibiotic efflux
+ARO:3004572	2	Staphylococcus aureus LmrS	macrolide/MLSB	antibiotic efflux
+ARO:3005052	2	LpsA	peptide	reduced permeability to antibiotic
+ARO:3000026	2	mepA	tetracycline	antibiotic efflux
+ARO:3005709	2	OXA-114i	beta-lactam	antibiotic inactivation
+ARO:3006043	2	OXA-851	beta-lactam	antibiotic inactivation
+ARO:3006093	2	OXA-905	beta-lactam	antibiotic inactivation
+ARO:3006618	2	PDC-24	beta-lactam	antibiotic inactivation
+ARO:3006709	2	PDC-34	beta-lactam	antibiotic inactivation
+ARO:3003643	2	OXA-486	beta-lactam	antibiotic inactivation
+ARO:3007014	2	qacC	other	
+ARO:3001581	2	OXA-395	beta-lactam	antibiotic inactivation
+ARO:3003067	2	smeS	beta-lactam	antibiotic efflux
+ARO:3003010	2	ceoB	aminoglycoside	antibiotic efflux
+ARO:3002982	2	amrA	aminoglycoside	antibiotic efflux
+ARO:3003053	2	smeC	beta-lactam	antibiotic efflux
+ARO:3002603	2	aadA3	aminoglycoside	antibiotic inactivation
+ARO:3003056	2	smeE	macrolide/MLSB	antibiotic efflux
+ARO:3003057	2	smeF	macrolide/MLSB	antibiotic efflux
+ARO:3000838	2	arlR	fluoroquinolone	antibiotic efflux
+ARO:3001301	2	RlmA(II)	macrolide/MLSB	antibiotic target alteration
+ARO:3002683	2	catI	phenicol	antibiotic inactivation
+ARO:3003511	2	Escherichia coli soxS with mutation conferring antibiotic resistance	beta-lactam	antibiotic target alteration; antibiotic efflux; reduced permeability to antibiotic
+ARO:3002601	2	aadA	aminoglycoside	antibiotic inactivation
+ARO:3002835	2	lnuA	macrolide/MLSB	antibiotic inactivation
+ARO:3002647	2	APH(3')-IIIa	aminoglycoside	antibiotic inactivation
+ARO:3004832	1	Neisseria gonorrhoeae PBP2 conferring resistance to beta-lactam antibiotics	beta-lactam	antibiotic target alteration
+ARO:3002630	1	ANT(9)-Ia	aminoglycoside	antibiotic inactivation
+ARO:3005036	1	bleO	other	
+ARO:3002635	1	aph(2'')-IIa	aminoglycoside	
+ARO:3004860	1	Burkholderia dolosa gyrA conferring resistance to fluoroquinolones	fluoroquinolone	antibiotic target alteration
+ARO:3002642	1	APH(3')-Ib	aminoglycoside	antibiotic inactivation
+ARO:3004657	1	catA4	phenicol	antibiotic inactivation
+ARO:3004583	1	Klebsiella pneumoniae KpnF	beta-lactam	antibiotic efflux
+ARO:3004659	1	Mef(En2)	macrolide/MLSB	antibiotic efflux
+ARO:3004773	1	CKO-1	beta-lactam	antibiotic inactivation
+ARO:3004611	1	Escherichia coli ampC1 beta-lactamase	beta-lactam	antibiotic inactivation
+ARO:3004612	1	Escherichia coli ampH beta-lactamase	beta-lactam	antibiotic inactivation
+ARO:3004667	1	Staphylococcus aureus norA	fluoroquinolone	antibiotic efflux
+ARO:3004683	1	aadS	aminoglycoside	antibiotic inactivation
+ARO:3003577	1	ugd	peptide	antibiotic target alteration
+ARO:3002628	1	ant(6)-Ia	aminoglycoside	
+ARO:3000165	1	tet(A)	tetracycline	
+ARO:3006871	1	blaCSP	beta-lactam	
+ARO:3002505	1	PDC-6	beta-lactam	antibiotic inactivation
+ARO:3006658	1	blaPDC	beta-lactam	
+ARO:3002596	1	AAC(6')-IIc	aminoglycoside	antibiotic inactivation
+ARO:3006538	1	PDC-16	beta-lactam	antibiotic inactivation
+ARO:3006226	1	CepA-49	beta-lactam	antibiotic inactivation
+ARO:3006092	1	OXA-904	beta-lactam	antibiotic inactivation
+ARO:3002602	1	aadA2	aminoglycoside	antibiotic inactivation
+ARO:3005722	1	OXA-114w	beta-lactam	antibiotic inactivation
+ARO:3005713	1	OXA-114m	beta-lactam	antibiotic inactivation
+ARO:3005703	1	OXA-114c	beta-lactam	antibiotic inactivation
+ARO:3005323	1	blaOXA	beta-lactam	
+ARO:3005166	1	Tet(X1)	tetracycline	antibiotic inactivation
+ARO:3005099	1	erm(A)	macrolide/MLSB	
+ARO:3005098	1	qacL	other	antibiotic efflux
+ARO:3002606	1	aadA6	aminoglycoside	antibiotic inactivation
+ARO:3000027	1	emrA	fluoroquinolone	antibiotic efflux
+ARO:3002671	1	Lactobacillus reuteri cat-TC	phenicol	antibiotic inactivation
+ARO:3002623	1	aadD1	aminoglycoside	
+ARO:3000074	1	emrB	fluoroquinolone	antibiotic efflux
+ARO:3000178	1	tet(K)	tetracycline	
+ARO:3004455	1	catA	phenicol	
+ARO:3000177	1	tet(J)	tetracycline	antibiotic efflux
+ARO:3003890	1	Escherichia coli UhpT with mutation conferring resistance to fosfomycin	fosfomycin	antibiotic target alteration
+ARO:3003889	1	Escherichia coli GlpT with mutation conferring resistance to fosfomycin	fosfomycin	antibiotic target alteration
+ARO:3003841	1	kdpE	aminoglycoside	antibiotic efflux
+ARO:3003807	1	Escherichia coli acrR with mutation conferring multidrug antibiotic resistance	beta-lactam	antibiotic target alteration; antibiotic efflux
+ARO:3003776	1	Staphylococcus aureus murA with mutation conferring resistance to fosfomycin	fosfomycin	antibiotic target alteration
+ARO:3003055	1	smeD	macrolide/MLSB	antibiotic efflux
+ARO:3000516	1	emrR	fluoroquinolone	antibiotic efflux
+ARO:3000828	1	baeR	aminoglycoside	antibiotic efflux
+ARO:3003112	1	lsa(C)	macrolide/MLSB	
+ARO:3000595	1	ErmT	macrolide/MLSB	antibiotic target alteration
+ARO:3000617	1	mecA	beta-lactam	
+ARO:3003684	1	Pseudomonas aeruginosa gyrA conferring resistance to fluoroquinolones	fluoroquinolone	antibiotic target alteration
+ARO:3003306	1	Morganella morganii gyrB conferring resistance to fluoroquinolones	fluoroquinolone	antibiotic target alteration
+ARO:3003378	1	Escherichia coli marR mutant conferring antibiotic resistance	beta-lactam	antibiotic target alteration; antibiotic efflux
+ARO:3000793	1	mdtB	other	antibiotic efflux
+ARO:3003381	1	Escherichia coli soxR with mutation conferring antibiotic resistance	beta-lactam	antibiotic target alteration; antibiotic efflux
+ARO:3003392	1	Mycobacterium tuberculosis katG mutations conferring resistance to isoniazid	other	antibiotic target alteration
+ARO:3003901	1	Staphylococcus aureus GlpT with mutation conferring resistance to fosfomycin	fosfomycin	antibiotic target alteration
+ARO:3003905	1	ANT(4')-Ib	aminoglycoside	antibiotic inactivation
+ARO:3003950	1	msbA	other	antibiotic efflux
+ARO:3002858	1	dfrA12	trimethoprim	antibiotic target replacement
+ARO:3002687	1	catQ	phenicol	antibiotic inactivation
+ARO:3001405	1	OXA-10	beta-lactam	antibiotic inactivation
+ARO:3000815	1	mgrA	beta-lactam	antibiotic efflux
+ARO:3004085	1	lnuG	macrolide/MLSB	antibiotic inactivation
+ARO:3002837	1	lnu(C)	macrolide/MLSB	
+ARO:3002854	1	dfrA1	trimethoprim	antibiotic target replacement
+ARO:3000196	1	tet32	tetracycline	antibiotic target protection
+ARO:3001329	1	mdtG	fosfomycin	antibiotic efflux
+ARO:3003046	1	qacA	fluoroquinolone	antibiotic efflux
+ARO:3003002	1	CfxA2	beta-lactam	antibiotic inactivation
+ARO:3001328	1	Escherichia coli mdfA	tetracycline	antibiotic efflux
+ARO:3004043	1	Escherichia coli acrA	beta-lactam	antibiotic efflux
+ARO:3004039	1	Escherichia coli emrE	macrolide/MLSB	antibiotic efflux
+ARO:3000263	1	marA	beta-lactam	antibiotic efflux; reduced permeability to antibiotic
+ARO:3000830	1	cpxA	aminoglycoside	antibiotic efflux
+ARO:3003962	1	farB	other	antibiotic efflux
+ARO:3000491	1	acrD	aminoglycoside	antibiotic efflux
