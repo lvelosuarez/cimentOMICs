@@ -1,17 +1,17 @@
-<img src="visual_abstract_ciment.png" alt="visual_abstract" width="500" align="center" style="margin-right: 15px; margin-bottom: 10px;" />
+<img src="visual_abstract_ciment.png" alt="visual_abstract" width="1000" align="center" style="margin-right: 15px; margin-bottom: 10px;" />
 
 
 
-This repository contains the data and scripts necessary to reproduce all figures in the paper: *”Microbiome composition determines the bronchopulmonary resistome in cystic fibrosis.”*.  This is a metagenomics study of the bronchopulmonary antibiotic resistome in cystic fibrosis (CF). Shotgun metagenomic assemblies from 40 CF sputum samples were analysed using RGI (CARD) and AMRFinderPlus to characterise the resistome without mapping to a fixed reference. 
+This repository contains the data and scripts necessary to reproduce all figures in the paper: *” Microbiome composition determines the bronchopulmonary resistome in cystic fibrosis.”*.  This is a metagenomics study of the bronchopulmonary antibiotic resistome in cystic fibrosis (CF). Shotgun metagenomic assemblies from 40 CF sputum samples were analyzed using RGI (CARD) and AMRFinderPlus to characterize the resistome without mapping to a fixed reference. 
 #### Key findings:
 
 - *Pseudomonas aeruginosa* pulmotype is the primary driver of ARG richness in CF airways (Spearman ρ = 0.67, p < 0.0001).
-- Macrolide ARGs are predominantly chromosomally encoded (87.9% of macrolide ARG contigs) and their abundance does not differ between AZM+ and AZM− patients.
+- Macrolide ARGs are predominantly chromosomally encoded (87.9% of macrolide ARG contigs), and their abundance does not differ between AZM+ and AZM− patients.
 - *mef*(A) abundance trend reflects *Streptococcus* ecological selection (15/20 vs 6/20, p=0.002) not gene acquisition
 - CFTR modulator therapy (ivacaftor/lumacaftor+ivacaftor, n=21 vs n=19) is not associated with enrichment of mobile ARGs.
 
 #### Schematic pipeline
-<img src="pipeline_schema.png" alt="pipeline" width="500" align="center" style="margin-right: 15px; margin-bottom: 10px;" />
+<img src="pipeline_schema.png" alt="pipeline" width="1000" align="center" style="margin-right: 15px; margin-bottom: 10px;" />
 
 
 ---
