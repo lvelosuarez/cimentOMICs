@@ -1,4 +1,4 @@
-[![DOI](https://zenodo-rdm.web.cern.ch/badge/DOI/10.5281/zenodo.15881253.svg)](https://doi.org/XXXXX)
+[![DOI](https://zenodo-rdm.web.cern.ch/badge/DOI/XXXXX.svg)](https://doi.org/XXXXX)
 
 
 <img src="visual_abstract_ciment.png" alt="visual_abstract" width="1000" align="center" style="margin-right: 15px; margin-bottom: 10px;" />
