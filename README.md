@@ -1,6 +1,7 @@
+[![DOI](https://zenodo-rdm.web.cern.ch/badge/DOI/10.5281/zenodo.15881253.svg)](https://doi.org/XXXXX)
+
+
 <img src="visual_abstract_ciment.png" alt="visual_abstract" width="1000" align="center" style="margin-right: 15px; margin-bottom: 10px;" />
-
-
 
 This repository contains the data and scripts necessary to reproduce all figures in the paper: *” Microbiome composition determines the bronchopulmonary resistome in cystic fibrosis.”*.  This is a metagenomics study of the bronchopulmonary antibiotic resistome in cystic fibrosis (CF). Shotgun metagenomic assemblies from 40 CF sputum samples were analyzed using RGI (CARD) and AMRFinderPlus to characterize the resistome without mapping to a fixed reference. 
 #### Key findings:
