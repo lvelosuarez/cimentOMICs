@@ -1,4 +1,5 @@
-<a href="https://doi.org/10.5281/zenodo.20759205"><img src="https://zenodo.org/badge/1271340807.svg" alt="DOI"></a>
+
+[![DOI](https://zenodo.org/badge/1271340807.svg)](https://doi.org/10.5281/zenodo.20759205)
 
 
 <img src="visual_abstract_ciment.png" alt="visual_abstract" width="1000" align="center" style="margin-right: 15px; margin-bottom: 10px;" />
