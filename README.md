@@ -1,4 +1,4 @@
-[![DOI](https://zenodo-rdm.web.cern.ch/badge/DOI/XXXXX.svg)](https://doi.org/XXXXX)
+<a href="https://doi.org/10.5281/zenodo.20759205"><img src="https://zenodo.org/badge/1271340807.svg" alt="DOI"></a>
 
 
 <img src="visual_abstract_ciment.png" alt="visual_abstract" width="1000" align="center" style="margin-right: 15px; margin-bottom: 10px;" />
@@ -59,7 +59,7 @@ CIMENT_resistome/
 |---------|----------|
 | Raw metagenomic reads | ENA: [PRJEB111121](https://www.ebi.ac.uk/ena/browser/view/PRJEB111121) |
 | Processed summary tables | `data/` directory (this repo) |
-| Large intermediate files (hAMRonization report 338 MB; depth table 59 MB) | Zenodo DOI: [pending] |
+| Large intermediate files (hAMRonization report 338 MB; depth table 59 MB) | Zenodo DOI: [10.5281/zenodo.20759206] |
 
 ---
 
