@@ -4,7 +4,7 @@
 
 <img src="visual_abstract_ciment_v1.png" alt="visual_abstract" width="700" align="center" style="margin-right: 15px; margin-bottom: 10px;" />
 
-This repository contains the data and scripts necessary to reproduce all figures in the paper: *” Microbiome composition determines the bronchopulmonary resistome in cystic fibrosis.”*.  This is a metagenomics study of the bronchopulmonary antibiotic resistome in cystic fibrosis (CF). Shotgun metagenomic assemblies from 40 CF sputum samples were analyzed using RGI (CARD) and AMRFinderPlus to characterize the resistome without mapping to a fixed reference. 
+This repository contains the data and scripts necessary to reproduce all figures in the paper: *”Ecology, not azithromycin, shapes the cystic fibrosis bronchopulmonary resistome”*.  This is a metagenomics study of the bronchopulmonary antibiotic resistome in cystic fibrosis (CF). Shotgun metagenomic assemblies from 40 CF sputum samples were analyzed using RGI (CARD) and AMRFinderPlus to characterize the resistome without mapping to a fixed reference. 
 #### Key findings:
 
 - *Pseudomonas aeruginosa* pulmotype is the primary driver of ARG richness in CF airways (Spearman ρ = 0.67, p < 0.0001).
