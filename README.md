@@ -4,9 +4,9 @@
 
 <img src="visual_abstract_ciment_v1.png" alt="visual_abstract" width="700" align="center" style="margin-right: 15px; margin-bottom: 10px;" />
 
-This repository contains the data and scripts necessary to reproduce all figures in the paper: *”Ecology, not azithromycin, shapes the cystic fibrosis bronchopulmonary resistome”*.  This is a metagenomics study of the bronchopulmonary antibiotic resistome in cystic fibrosis (CF). Shotgun metagenomic assemblies from 40 CF sputum samples were analyzed using RGI (CARD) and AMRFinderPlus to characterize the resistome without mapping to a fixed reference. 
-#### Key findings:
+This repository contains the data and scripts necessary to reproduce all figures in the paper: *” Ecology, not azithromycin, shapes the cystic fibrosis bronchopulmonary resistome”*.  This is a metagenomics study of the bronchopulmonary antibiotic resistome in cystic fibrosis (CF). Shotgun metagenomic assemblies from 40 CF sputum samples were analyzed using RGI (CARD) and AMRFinderPlus to characterize the resistome without mapping to a fixed reference. 
 
+#### Key findings:
 
 - Macrolide ARGs are predominantly chromosomally encoded (87.9% of macrolide ARG contigs), and their abundance does not differ between AZM+ and AZM− patients.
 - *mef*(A) abundance trend reflects *Streptococcus* ecological selection (15/20 vs 6/20, p=0.002) not gene acquisition.
