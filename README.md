@@ -2,7 +2,7 @@
 [![DOI](https://zenodo.org/badge/1271340807.svg)](https://doi.org/10.5281/zenodo.20759205)
 
 
-<img src="visual_abstract_ciment_v1.png" alt="visual_abstract" width="700" align="center" style="margin-right: 15px; margin-bottom: 10px;" />
+<img src="visual_abstract_v1.png" alt="visual_abstract" width="700" align="center" style="margin-right: 15px; margin-bottom: 10px;" />
 
 This repository contains the data and scripts necessary to reproduce all figures in the paper: *” Ecology, not azithromycin, shapes the cystic fibrosis bronchopulmonary resistome”*.  This is a metagenomics study of the bronchopulmonary antibiotic resistome in cystic fibrosis (CF). Shotgun metagenomic assemblies from 40 CF sputum samples were analyzed using RGI (CARD) and AMRFinderPlus to characterize the resistome without mapping to a fixed reference. 
 
