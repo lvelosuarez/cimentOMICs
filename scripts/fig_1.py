@@ -57,7 +57,6 @@ CLASS_COLORS = {
     'tetracycline':     '#E69F00',
     'aminoglycoside':   '#56B4E9',
     'phenicol':         '#CC79A7',
-    'triclosan':        '#F0E442',
     'fosfomycin':       '#7570B3',
     'peptide':          '#1B9E77',
     'sulfonamide':      '#A6761D',
@@ -67,11 +66,11 @@ CLASS_LABELS = {
     'beta-lactam': 'Beta-lactam', 'macrolide/MLSB': 'Macrolide/MLSB',
     'fluoroquinolone': 'Fluoroquinolone', 'tetracycline': 'Tetracycline',
     'aminoglycoside': 'Aminoglycoside', 'phenicol': 'Phenicol',
-    'triclosan': 'Triclosan', 'fosfomycin': 'Fosfomycin',
+    'fosfomycin': 'Fosfomycin',
     'peptide': 'Peptide', 'sulfonamide': 'Sulfonamide', 'other': 'Other',
 }
 CLASS_ORDER = ['beta-lactam','macrolide/MLSB','fluoroquinolone','tetracycline',
-               'aminoglycoside','fosfomycin','peptide','phenicol','triclosan',
+               'aminoglycoside','fosfomycin','peptide','phenicol',
                'sulfonamide','other']
 AZM_COLORS = {'AZMpos': '#C0392B', 'AZMneg': '#2980B9'}
 MECH_COLORS = {
@@ -95,7 +94,6 @@ BROAD_MAP = {
     'trimethoprim':    ['diaminopyrimidine','trimethoprim'],
     'fosfomycin':      ['fosfomycin'],
     'peptide':         ['peptide antibiotic'],
-    'triclosan':       ['triclosan'],
     'sulfonamide':     ['sulfonamide'],
 }
 def assign_broad(s):

@@ -37,12 +37,12 @@ FIG_H = 80 * MM    # 1 row of 4 panels
 matplotlib.rcParams.update({
     'font.family':      'sans-serif',
     'font.sans-serif':  ['Arial', 'Helvetica', 'DejaVu Sans'],
-    'font.size':        7,
-    'axes.labelsize':   7,
-    'axes.titlesize':   7,
-    'xtick.labelsize':  6,
-    'ytick.labelsize':  6,
-    'legend.fontsize':  6,
+    'font.size':        9,
+    'axes.labelsize':   9,
+    'axes.titlesize':   9,
+    'xtick.labelsize':  8,
+    'ytick.labelsize':  8,
+    'legend.fontsize':  8,
     'axes.linewidth':   0.6,
     'xtick.major.width': 0.6,
     'ytick.major.width': 0.6,
@@ -95,10 +95,10 @@ def draw_panel(ax, pos_vals, neg_vals, ylabel, seed=42):
     p_col = '#C0392B' if mw.pvalue < 0.05 else ('#E67E22' if mw.pvalue < 0.10 else '#888888')
     ax.text(0.5, 0.99, f'MW p = {mw.pvalue:.3f}',
             transform=ax.transAxes, ha='center', va='top',
-            fontsize=5.5, color=p_col)
+            fontsize=7.5, color=p_col)
     ax.set_xticks([0, 1])
-    ax.set_xticklabels([f'CFTR+\n(n={n_pos})', f'CFTR−\n(n={n_neg})'], fontsize=6)
-    ax.set_ylabel(ylabel, fontsize=6)
+    ax.set_xticklabels([f'M+\n(n={n_pos})', f'M−\n(n={n_neg})'], fontsize=8)
+    ax.set_ylabel(ylabel, fontsize=8)
     ax.spines['top'].set_visible(False)
     ax.spines['right'].set_visible(False)
     ax.tick_params(axis='both', length=2, width=0.6)
@@ -111,30 +111,26 @@ fig, axes = plt.subplots(1, 4, figsize=(FIG_W, FIG_H))
 pos_a = richness[richness['CFTR'] == 'CFTR+']['n_aro'].values
 neg_a = richness[richness['CFTR'] == 'CFTR−']['n_aro'].values
 p_a = draw_panel(axes[0], pos_a, neg_a, 'Total ARG richness\n(unique AROs)')
-axes[0].set_title('ARG richness', fontsize=7, pad=3)
 
 # Panel B: PA abundance
 pos_b = meta[meta['CFTR'] == 'CFTR+']['PA_sylph_pct'].values
 neg_b = meta[meta['CFTR'] == 'CFTR−']['PA_sylph_pct'].values
 p_b = draw_panel(axes[1], pos_b, neg_b, 'PA abundance (%)')
-axes[1].set_title('P. aeruginosa\nabundance (PA%)', fontsize=7, pad=3)
 
 # Panel C: total macrolide RPKM
 pos_c = meta[meta['CFTR'] == 'CFTR+']['total_mac_rpkm_mapped'].values
 neg_c = meta[meta['CFTR'] == 'CFTR−']['total_mac_rpkm_mapped'].values
 p_c = draw_panel(axes[2], pos_c, neg_c, 'Total macrolide\nRPKM')
-axes[2].set_title('Macrolide ARG\nabundance', fontsize=7, pad=3)
 
 # Panel D: mobile ARG contigs
 pos_d = meta[meta['CFTR'] == 'CFTR+']['n_mobile_arg'].values
 neg_d = meta[meta['CFTR'] == 'CFTR−']['n_mobile_arg'].values
 p_d = draw_panel(axes[3], pos_d, neg_d, 'Mobile ARG\ncontigs per patient')
-axes[3].set_title('Mobile ARG\ncontigs', fontsize=7, pad=3)
 
 # Panel labels
 for i, ax in enumerate(axes):
     ax.text(-0.18, 1.06, chr(65 + i), transform=ax.transAxes,
-            fontsize=9, fontweight='bold', va='top')
+            fontsize=11, fontweight='bold', va='top')
 
 plt.tight_layout()
 
